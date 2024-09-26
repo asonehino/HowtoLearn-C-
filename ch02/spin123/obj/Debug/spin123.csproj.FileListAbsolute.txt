@@ -1,0 +1,14 @@
+C:\study\C#\ch02\spin123\spin123\bin\Debug\spin123.exe.config
+C:\study\C#\ch02\spin123\spin123\bin\Debug\spin123.exe
+C:\study\C#\ch02\spin123\spin123\bin\Debug\spin123.pdb
+C:\study\C#\ch02\spin123\spin123\obj\Debug\spin123.csproj.AssemblyReference.cache
+C:\study\C#\ch02\spin123\spin123\obj\Debug\spin123.Form1.resources
+C:\study\C#\ch02\spin123\spin123\obj\Debug\spin123.Properties.Resources.resources
+C:\study\C#\ch02\spin123\spin123\obj\Debug\spin123.csproj.GenerateResource.cache
+C:\study\C#\ch02\spin123\spin123\obj\Debug\spin123.csproj.CoreCompileInputs.cache
+C:\study\C#\ch02\spin123\spin123\obj\Debug\spin123.exe
+C:\study\C#\ch02\spin123\spin123\obj\Debug\spin123.pdb
+C:\study\C#\ch02\spin123\spin123\bin\Debug\AGauge.dll
+C:\study\C#\ch02\spin123\spin123\obj\Debug\spin123.csproj.Up2Date
+C:\study\C#\ch02\spin123\spin123\bin\Debug\M2Mqtt.Net.dll
+C:\study\C#\ch02\spin123\spin123\bin\Debug\M2Mqtt.Net.pdb
