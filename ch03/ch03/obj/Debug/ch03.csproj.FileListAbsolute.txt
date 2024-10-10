@@ -1,0 +1,13 @@
+C:\study\C#\ch03\ch03\bin\Debug\ch03.exe.config
+C:\study\C#\ch03\ch03\bin\Debug\ch03.exe
+C:\study\C#\ch03\ch03\bin\Debug\ch03.pdb
+C:\study\C#\ch03\ch03\bin\Debug\M2Mqtt.Net.dll
+C:\study\C#\ch03\ch03\bin\Debug\M2Mqtt.Net.pdb
+C:\study\C#\ch03\ch03\obj\Debug\ch03.csproj.AssemblyReference.cache
+C:\study\C#\ch03\ch03\obj\Debug\ch03.Form1.resources
+C:\study\C#\ch03\ch03\obj\Debug\ch03.Properties.Resources.resources
+C:\study\C#\ch03\ch03\obj\Debug\ch03.csproj.GenerateResource.cache
+C:\study\C#\ch03\ch03\obj\Debug\ch03.csproj.CoreCompileInputs.cache
+C:\study\C#\ch03\ch03\obj\Debug\ch03.csproj.Up2Date
+C:\study\C#\ch03\ch03\obj\Debug\ch03.exe
+C:\study\C#\ch03\ch03\obj\Debug\ch03.pdb
