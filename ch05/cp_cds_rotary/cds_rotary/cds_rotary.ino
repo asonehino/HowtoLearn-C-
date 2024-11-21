@@ -7,12 +7,12 @@ void setup() {
 }
 
 void loop() {
-  float cdsv = analogRead(CDS);
-  float rotaryv = analogRead(ROTARY);
+  float cdsv = 3.3*analogRead(CDS)/4095.0;
+  float rotaryv = 3.3*analogRead(ROTARY)/4095.0;
 
   Serial.print(cdsv);
-  Serial.print(",");
+  Serial.print(", ");
   Serial.print(rotaryv);
-  Serial.print(",");
+  Serial.print("\n");
   delay(1000);
 }

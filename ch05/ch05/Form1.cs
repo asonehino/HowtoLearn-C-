@@ -57,6 +57,21 @@ namespace ch05
                     MySqlCommand msc = new MySqlCommand($"insert into sensor_table(temp, humi, date) values({temp},{humi},'{date}');", conn);
                     msc.ExecuteNonQuery();
                 }
+                //게이지에 출력하기
+                aGauge1.Value = float.Parse(temp);
+                aGauge2.Value = float.Parse(humi);
+
+                //그래프 그리기
+                chart1.Series[0].Points.AddY(temp);
+                chart1.Series[1].Points.AddY(humi);
+
+                //점의 갯수가 10개보다 크다면
+                if (chart1.Series[0].Points.Count > 10)
+                {
+                    //제일 처음 입력된 값은 삭제된다.
+                    chart1.Series[0].Points.RemoveAt(0);
+                    chart1.Series[1].Points.RemoveAt(0);
+                }
             }
         }
 
@@ -126,6 +141,18 @@ namespace ch05
                     listView1.Items.Add(Ivi);
                 }
             }
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            //폼2를 클릭했다!
+            Form2 fm2 = new Form2();
+            fm2.Show(); //모달방식
         }
     }
 }
