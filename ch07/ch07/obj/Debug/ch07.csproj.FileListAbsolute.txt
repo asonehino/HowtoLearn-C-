@@ -1,0 +1,13 @@
+C:\study\GUI\ch07\ch07\bin\Debug\ch07.exe.config
+C:\study\GUI\ch07\ch07\bin\Debug\ch07.exe
+C:\study\GUI\ch07\ch07\bin\Debug\ch07.pdb
+C:\study\GUI\ch07\ch07\obj\Debug\ch07.csproj.AssemblyReference.cache
+C:\study\GUI\ch07\ch07\obj\Debug\ch07.Form1.resources
+C:\study\GUI\ch07\ch07\obj\Debug\ch07.Properties.Resources.resources
+C:\study\GUI\ch07\ch07\obj\Debug\ch07.csproj.GenerateResource.cache
+C:\study\GUI\ch07\ch07\obj\Debug\ch07.csproj.CoreCompileInputs.cache
+C:\study\GUI\ch07\ch07\obj\Debug\ch07.exe
+C:\study\GUI\ch07\ch07\obj\Debug\ch07.pdb
+C:\study\GUI\ch07\ch07\bin\Debug\M2Mqtt.Net.dll
+C:\study\GUI\ch07\ch07\bin\Debug\M2Mqtt.Net.pdb
+C:\study\GUI\ch07\ch07\obj\Debug\ch07.csproj.Up2Date
